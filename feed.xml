@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>alix.cool</title>
+    <link href="https://alixdeschamps.github.io/feed.xml" rel="self" />
+    <link href="https://alixdeschamps.github.io" />
+    <updated>2025-09-19T14:40:21+02:00</updated>
+    <author>
+        <name>Alix Deschamps</name>
+    </author>
+    <id>https://alixdeschamps.github.io</id>
+
+    <entry>
+        <title>Posteeeeee</title>
+        <author>
+            <name>Alix Deschamps</name>
+        </author>
+        <link href="https://alixdeschamps.github.io/posteeeeee.html"/>
+        <id>https://alixdeschamps.github.io/posteeeeee.html</id>
+        <media:content url="https://alixdeschamps.github.io/media/posts/3/3d_avion.PNG" medium="image" />
+
+        <updated>2025-09-19T14:40:21+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Talons séduction</title>
+        <author>
+            <name>Alix Deschamps</name>
+        </author>
+        <link href="https://alixdeschamps.github.io/talons-seduction.html"/>
+        <id>https://alixdeschamps.github.io/talons-seduction.html</id>
+        <media:content url="https://alixdeschamps.github.io/media/posts/1/schema-wp-woocommerce-auth.png" medium="image" />
+
+        <updated>2025-09-19T14:23:35+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://alixdeschamps.github.io/media/posts/1/schema-wp-woocommerce-auth.png" alt="" />
+                    J'adore
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://alixdeschamps.github.io/media/posts/1/schema-wp-woocommerce-auth.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://alixdeschamps.github.io/media/posts/1/3d_avion.PNG" alt="" width="1339" height="610" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://alixdeschamps.github.io/media/posts/1/responsive/3d_avion-xs.PNG 640w ,https://alixdeschamps.github.io/media/posts/1/responsive/3d_avion-sm.PNG 768w ,https://alixdeschamps.github.io/media/posts/1/responsive/3d_avion-md.PNG 1024w ,https://alixdeschamps.github.io/media/posts/1/responsive/3d_avion-lg.PNG 1366w ,https://alixdeschamps.github.io/media/posts/1/responsive/3d_avion-xl.PNG 1600w ,https://alixdeschamps.github.io/media/posts/1/responsive/3d_avion-2xl.PNG 1920w"></figure>
+<p> </p>
+<p>J'adore</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://alixdeschamps.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://alixdeschamps.github.io/</loc>
+</url>
+<url>
+<loc>https://alixdeschamps.github.io/me-contacter.html</loc>
+<lastmod>2025-09-19T14:24:35+02:00</lastmod>
+</url>
+<url>
+<loc>https://alixdeschamps.github.io/posteeeeee.html</loc>
+<lastmod>2025-09-19T14:40:21+02:00</lastmod>
+<image:image>
+<image:loc>https://alixdeschamps.github.io/media/posts/3/3d_avion.PNG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://alixdeschamps.github.io/talons-seduction.html</loc>
+<lastmod>2025-09-19T14:39:44+02:00</lastmod>
+<image:image>
+<image:loc>https://alixdeschamps.github.io/media/posts/1/schema-wp-woocommerce-auth.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://alixdeschamps.github.io/media/posts/1/3d_avion.PNG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

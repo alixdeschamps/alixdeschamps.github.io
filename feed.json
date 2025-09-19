@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "alix.cool",
+    "description": "",
+    "home_page_url": "https://alixdeschamps.github.io",
+    "feed_url": "https://alixdeschamps.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Alix Deschamps"
+    },
+    "items": [
+        {
+            "id": "https://alixdeschamps.github.io/posteeeeee.html",
+            "url": "https://alixdeschamps.github.io/posteeeeee.html",
+            "title": "Posteeeeee",
+            "image": "https://alixdeschamps.github.io/media/posts/3/3d_avion.PNG",
+            "author": {
+                "name": "Alix Deschamps"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-19T14:40:21+02:00",
+            "date_modified": "2025-09-19T14:40:21+02:00"
+        },
+        {
+            "id": "https://alixdeschamps.github.io/talons-seduction.html",
+            "url": "https://alixdeschamps.github.io/talons-seduction.html",
+            "title": "Talons séduction",
+            "summary": "J'adore",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://alixdeschamps.github.io/media/posts/1/3d_avion.PNG\" alt=\"\" width=\"1339\" height=\"610\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://alixdeschamps.github.io/media/posts/1/responsive/3d_avion-xs.PNG 640w ,https://alixdeschamps.github.io/media/posts/1/responsive/3d_avion-sm.PNG 768w ,https://alixdeschamps.github.io/media/posts/1/responsive/3d_avion-md.PNG 1024w ,https://alixdeschamps.github.io/media/posts/1/responsive/3d_avion-lg.PNG 1366w ,https://alixdeschamps.github.io/media/posts/1/responsive/3d_avion-xl.PNG 1600w ,https://alixdeschamps.github.io/media/posts/1/responsive/3d_avion-2xl.PNG 1920w\"></figure>\n<p> </p>\n<p>J'adore</p>",
+            "image": "https://alixdeschamps.github.io/media/posts/1/schema-wp-woocommerce-auth.png",
+            "author": {
+                "name": "Alix Deschamps"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-19T14:23:35+02:00",
+            "date_modified": "2025-09-19T14:39:44+02:00"
+        }
+    ]
+}
