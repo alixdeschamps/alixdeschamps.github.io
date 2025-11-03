@@ -3,12 +3,34 @@
     <title>testsss</title>
     <link href="https://alixdeschamps.github.io/feed.xml" rel="self" />
     <link href="https://alixdeschamps.github.io" />
-    <updated>2025-10-02T19:40:28+02:00</updated>
+    <updated>2025-11-03T11:51:29+01:00</updated>
     <author>
         <name>Alix</name>
     </author>
     <id>https://alixdeschamps.github.io</id>
 
+    <entry>
+        <title>Zahlung</title>
+        <author>
+            <name>Alix</name>
+        </author>
+        <link href="https://alixdeschamps.github.io/zahlung.html"/>
+        <id>https://alixdeschamps.github.io/zahlung.html</id>
+
+        <updated>2025-11-03T11:49:03+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello here is my carbon compensation
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello here is my <a href="https://alixdeschamps.github.io/zahlungsbeleg_ax1000003463.pdf" title="carbon">carbon compensation </a></p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://alixdeschamps.github.io/media/posts/4/zahlungsbeleg_ax1000003463.pdf" alt="a carbon compensation"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Avion à Pédale</title>
         <author>
